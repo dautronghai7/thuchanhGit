@@ -1,1 +1,3 @@
 noi dung B
+
+update file B
