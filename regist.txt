@@ -1,0 +1,6 @@
+tao form dang ky
+input ten
+input email
+itput passowrd
+button submit
+
